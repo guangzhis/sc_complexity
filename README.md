@@ -1,6 +1,5 @@
-# sc_complexity
-link sc complexity with financial performance
+# What's in here?
 
-It contains a Stata .do file and that's it for now. 
+Currently, there's a \.do file in the master branch. This will be updated as our data exploration goes forward. 
 
-I'm exploring the possiblity of putting .docx here. 
+Down the road, may be also put \.docx file up here when we start writing some up. But version control for \.docx might be a little more involved.
